@@ -1,6 +1,5 @@
-gradio
-transformers
-torch
+streamlit==1.38.0
+transformers==4.41.2
+torch==2.3.0
 requests
 deep-translator
-speechrecognition
