@@ -1,4 +1,4 @@
-🌍 GlobeMate AI – Smart Travel Companion
+🌍 𝑮𝒍𝒐𝒃𝒆𝑴𝒂𝒕𝒆 𝑨𝑰 – 𝑺𝒎𝒂𝒓𝒕 𝑻𝒓𝒂𝒗𝒆𝒍 𝑪𝒐𝒎𝒑𝒂𝒏𝒊𝒐𝒏
 
 GlobeMate AI is an all-in-one travel companion powered by AI. Plan trips, convert currencies, detect scams, calculate your carbon footprint, find eco-friendly hotels, translate languages, share tips, and interact with a voice assistant — all in one interface built using Gradio and Hugging Face Transformers.
 
